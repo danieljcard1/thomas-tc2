@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is the section page"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "Resume",
+    "section": "Goals",
+    "text": "Goals\nSharing traditional West African Cuisine"
+  },
+  {
+    "objectID": "about.html#favorite-foods",
+    "href": "about.html#favorite-foods",
+    "title": "Resume",
+    "section": "Favorite Foods",
+    "text": "Favorite Foods\n\n\n\nFavorite food\n\n\nPotato greens are a traditional West African dish that is made from the leaves of sweet potatoes, cooked down with assorted meats, heavy seasoning, oil, and served over white rice."
+  },
+  {
+    "objectID": "document-revealjs.html#goals",
+    "href": "document-revealjs.html#goals",
+    "title": "Resume",
+    "section": "Goals",
+    "text": "Goals\nSharing traditional West African Cuisine"
+  },
+  {
+    "objectID": "document-revealjs.html#favorite-foods",
+    "href": "document-revealjs.html#favorite-foods",
+    "title": "Resume",
+    "section": "Favorite Foods",
+    "text": "Favorite Foods\n\nFavorite foodPotato greens are a traditional West African dish that is made from the leaves of sweet potatoes, cooked down with assorted meats, heavy seasoning, oil, and served over white rice."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Redd",
+    "section": "",
+    "text": "This is the homepage."
+  }
+]

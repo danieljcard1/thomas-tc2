@@ -1,0 +1,19 @@
+---
+title: "Resume"
+format: 
+  html: default
+  revealjs: 
+    output-file: document-revealjs.html
+---
+
+Here is the section page
+
+## Goals
+
+{{< include source_topics/_goals.qmd >}}
+
+## Favorite Foods
+
+{{< include source_topics/_foods.qmd >}}
+
+
